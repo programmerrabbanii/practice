@@ -1,0 +1,260 @@
+.bannar{
+    background-color: #254E19;
+    padding: 10px 0;
+    height: 700px;
+    position: relative;
+}
+img{
+    max-width: 100%;
+}
+.menu-left h2 a{
+    color: black;
+
+}
+.manu-center ul{
+    text-align: center;
+
+}
+.manu-center ul li{
+    display: inline-block;
+    padding: 10px 10px;
+
+}
+.manu-center ul li a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: black;
+
+}
+.manu-center ul li a:hover{
+    background-color: #f7f7f7;
+    border-radius: 20px;
+    padding: 17px 20px;
+    transition: .1s;
+}
+.header {
+    background: white;
+    padding: 15px;
+    border-radius: 50px;
+    margin-bottom: 50px;
+    position: fixed;
+    top: 5px;
+    left: 45px;
+    width: 91%;
+}
+.manu-btn  {
+    display: inline-block;
+    text-transform: uppercase;
+    line-height: 3;
+    background: #1E2330;
+    padding: 13px 24px;
+    color: white;
+    border-radius: 100px;
+    text-align: right;
+    text-align: end;
+    margin-left: 133px;
+}
+.manu-btn:hover{
+    background-color:rgba(0, 0, 0, 0.975);
+}
+.manu-btn a{
+    text-decoration: none;
+    color: white;
+
+}
+a {
+    text-decoration: none;
+    line-height: 2;
+    padding: 2p;
+}
+.banner-left h1{
+  color: white;
+  font-size: 95px;
+
+}
+.banner-left p{
+color: white;
+font-size: 22px;
+line-height: 29px;
+}
+.bannar-b {
+    text-decoration: none;
+    background: #E9C0E9;
+    display: inline-block;
+    padding: 19px 35px;
+    border-radius: 40px;
+    color: #7e2c7e;
+    text-transform: capitalize;
+    font-weight: 500;
+    font-size: 21px;
+    /* margin-left: -13px; */
+}
+.bannar-b:hover{
+    background-color: white;
+    color: #7e2c7e;
+    transition: .3s;
+
+}
+.bannar-b2{
+    text-decoration: none;
+    background-color: #D2DC1D;
+    text-decoration: none;
+    display: inline-block;
+    padding: 19px 35px;
+    border-radius: 40px;
+    text-transform: capitalize;
+    font-weight: 500;
+    font-size: 21px;
+    color: black;
+    margin-left: 20px;
+
+}
+.bannar-b2:hover{
+    background-color: #eff461;
+    transition: .3s;
+    color: black;
+}
+.bannar-image{
+
+}
+.bannar-image img{
+    height: 500px;
+    border-radius: 30px;
+    margin-left: 60px;
+}
+.bannar-image {
+    margin-top: 140px;
+}
+.banner-left {
+    margin-top: 140px;
+}
+
+/* bannar section end */
+/* demo secton start */
+.live-d{
+    text-align: center;
+    font-size: 90px;
+    text-transform: capitalize;
+    padding-bottom: 44px;
+
+}
+.demo{
+    padding: 100px 0;
+    background-color: #E9C0E9;
+}
+.containerr {
+    width: 700px;
+    margin: auto;
+}
+.demo-right img{
+    border-radius: 9px;
+}
+.demo-left img{
+    border-radius: 10px;
+}
+.demo-bottom h2 {
+    margin-top: 60px;
+    font-size: 32px;
+    line-height: 38px;
+    text-align: center;
+}
+
+.demo-right-text h2{
+    margin-top: 60px;
+    font-size: 32px;
+    line-height: 38px;
+    text-align: center;
+    text-transform: capitalize;
+
+}
+
+a.live-btn {
+    display: inline-block;
+    color: white;
+    background: black;
+    /* margin: auto; */
+    padding: 23px 38px;
+    font-size: 22px;
+    text-transform: capitalize;
+    line-height: 29px;
+    border-radius: 40px;
+    margin-left: 65px;
+    margin-top: -26px;
+    display: inile;
+    display: inline;
+    display: inline-block;
+    margin-top: 8px;
+}
+/* demo section end */
+/* demo video section start */
+
+
+.hed-d{
+    font-size: 100px;
+    text-transform: capitalize;
+    color: white;
+    padding-bottom: 50px;
+    text-align: center;
+}
+.demo-video{
+    background-color: #780016;
+    padding: 100px 0;
+}
+.demo-v {
+    margin: auto;
+    width: 1030px;
+    margin: auto;
+    border-radius: 20px;
+}
+
+.blocks{
+    padding: 80px;
+}
+.blocks-image{
+
+    
+}
+.blocks-text{
+    margin-left: 40px;
+
+}
+.blocks-text h2 {
+    font-size: 96px;
+    line-height: 86px;
+}
+.blocks-text p {
+    font-size: 22px;
+    line-height: 29px;
+}
+.blocks-image img {
+    height: 553px;
+    border-radius: 10px;
+    width: auto;
+}
+/* blocks end */
+/* fotter section start */
+footer{
+    text-align: center;
+    padding: 13px;
+    font-size: 22px ;
+    line-height: 29px;
+    text-transform: capitalize;
+    background-color: #1E2330;
+    color: white;
+
+}
+.btnn {
+    background: #E9C0E9;
+    padding: 20px 43px;
+    color: #c975c9;
+    text-transform: capitalize;
+    font-weight: 500;
+    font-size: 20px;
+    border-radius: 57px;
+    margin-bottom: -10px;
+    display: inline-block;
+}.btnn:hover{
+    background-color: #f9f9f9;
+    color: #c975c9;
+    transition: .3s;
+}
